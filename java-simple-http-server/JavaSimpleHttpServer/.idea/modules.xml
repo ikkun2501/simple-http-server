@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaSimpleHttpServer.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaSimpleHttpServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaSimpleHttpServer_main.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaSimpleHttpServer_main.iml" group="JavaSimpleHttpServer" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/JavaSimpleHttpServer_test.iml" filepath="$PROJECT_DIR$/.idea/modules/JavaSimpleHttpServer_test.iml" group="JavaSimpleHttpServer" />
+    </modules>
+  </component>
+</project>
